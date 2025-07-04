@@ -72,7 +72,7 @@ const Discover = () => {
   if (loading) return <Loading type="groups" />;
   if (error) return <Error message={error} onRetry={loadGroups} />;
   
-  return (
+return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       {/* Hero Section */}
       <div className="text-center mb-12">
@@ -81,8 +81,8 @@ const Discover = () => {
           animate={{ opacity: 1, y: 0 }}
           className="text-4xl md:text-5xl font-bold text-gray-900 mb-4"
         >
-          Discover Your{' '}
-          <span className="gradient-text">Community</span>
+Discover Your{' '}
+          <span className="bg-gradient-to-r from-violet-600 via-purple-600 to-amber-500 bg-clip-text text-transparent">Community</span>
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
@@ -113,10 +113,10 @@ const Discover = () => {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               onClick={() => setSelectedCategory(category.id)}
-              className={`flex items-center space-x-2 px-4 py-2 rounded-full transition-all ${
+className={`flex items-center space-x-2 px-4 py-2 rounded-full transition-all ${
                 selectedCategory === category.id
-                  ? 'bg-gradient-to-r from-primary to-purple-600 text-white'
-                  : 'bg-white text-gray-700 hover:bg-gray-50 border border-gray-200'
+                  ? 'bg-gradient-to-r from-violet-600 to-purple-600 text-white shadow-lg'
+                  : 'bg-white text-gray-700 hover:bg-gradient-to-r hover:from-purple-50 hover:to-amber-50 border border-gray-200'
               }`}
             >
               <ApperIcon name={category.icon} className="w-4 h-4" />

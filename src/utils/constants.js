@@ -21,14 +21,15 @@ export const CATEGORIES = [
 ];
 
 export const COLORS = {
-  primary: '#7C3AED',
-  secondary: '#F59E0B',
-  accent: '#10B981',
-  surface: '#F9FAFB',
-  success: '#10B981',
-  warning: '#F59E0B',
-  error: '#EF4444',
-  info: '#3B82F6'
+  primary: '#7C3AED',      // Harmonious violet
+  secondary: '#F59E0B',    // Warm amber
+  accent: '#10B981',       // Fresh emerald
+  surface: '#FEFEFE',      // Clean white surface
+  background: '#FAFAFB',   // Subtle background
+  success: '#10B981',      // Emerald success
+  warning: '#F59E0B',      // Amber warning
+  error: '#EF4444',        // Clear red error
+  info: '#3B82F6'          // Trustworthy blue
 };
 
 export const BREAKPOINTS = {

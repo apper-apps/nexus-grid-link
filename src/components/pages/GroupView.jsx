@@ -127,9 +127,9 @@ const GroupView = () => {
             <button
               key={tab.id}
               onClick={() => setActiveTab(tab.id)}
-              className={`flex items-center space-x-2 py-4 px-1 border-b-2 font-medium text-sm ${
+className={`flex items-center space-x-2 py-4 px-1 border-b-2 font-medium text-sm ${
                 activeTab === tab.id
-                  ? 'border-primary text-primary'
+                  ? 'border-violet-600 text-violet-600'
                   : 'border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300'
               }`}
             >
@@ -215,20 +215,20 @@ const GroupView = () => {
                   <div>
                     <h4 className="font-medium text-gray-900 mb-3">Group Rules</h4>
                     <div className="space-y-2 text-sm text-gray-600">
-                      <div className="flex items-start space-x-2">
-                        <span className="text-primary">•</span>
+<div className="flex items-start space-x-2">
+                        <span className="text-violet-600">•</span>
                         <span>Be respectful and kind to all members</span>
                       </div>
-                      <div className="flex items-start space-x-2">
-                        <span className="text-primary">•</span>
+<div className="flex items-start space-x-2">
+                        <span className="text-violet-600">•</span>
                         <span>Stay on topic and relevant to the group</span>
                       </div>
-                      <div className="flex items-start space-x-2">
-                        <span className="text-primary">•</span>
+<div className="flex items-start space-x-2">
+                        <span className="text-violet-600">•</span>
                         <span>No spam or self-promotion</span>
                       </div>
-                      <div className="flex items-start space-x-2">
-                        <span className="text-primary">•</span>
+<div className="flex items-start space-x-2">
+                        <span className="text-violet-600">•</span>
                         <span>Use appropriate language</span>
                       </div>
                     </div>

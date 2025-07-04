@@ -32,7 +32,7 @@
 }
 
 .Toastify__progress-bar {
-  @apply bg-gradient-to-r from-primary to-secondary;
+  @apply bg-gradient-to-r from-violet-600 to-purple-600;
 }
 
 @layer base {
@@ -46,32 +46,32 @@
 }
 
 @layer components {
-  .btn-primary {
-    @apply bg-gradient-to-r from-primary to-purple-600 hover:from-purple-700 hover:to-purple-800 text-white font-medium px-6 py-3 rounded-lg transition-all duration-200 transform hover:scale-105 shadow-lg hover:shadow-xl;
+.btn-primary {
+    @apply bg-gradient-to-r from-violet-600 to-purple-600 hover:from-violet-700 hover:to-purple-700 text-white font-medium px-6 py-3 rounded-lg transition-all duration-200 transform hover:scale-105 shadow-lg hover:shadow-xl;
   }
   
   .btn-secondary {
     @apply bg-white hover:bg-gray-50 text-gray-700 font-medium px-6 py-3 rounded-lg border border-gray-300 transition-all duration-200 transform hover:scale-105 shadow-sm hover:shadow-md;
   }
   
-  .btn-ghost {
-    @apply text-gray-600 hover:text-primary hover:bg-purple-50 font-medium px-4 py-2 rounded-lg transition-all duration-200;
+.btn-ghost {
+    @apply text-gray-600 hover:text-violet-600 hover:bg-gradient-to-r hover:from-purple-50 hover:to-amber-50 font-medium px-4 py-2 rounded-lg transition-all duration-200;
   }
   
   .card {
     @apply bg-white rounded-xl shadow-sm border border-gray-200 p-6 hover:shadow-md transition-shadow duration-200;
   }
   
-  .input-field {
-    @apply w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent transition-all duration-200 font-body;
+.input-field {
+    @apply w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-violet-600 focus:border-transparent transition-all duration-200 font-body;
   }
   
-  .gradient-text {
-    @apply bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent;
+.gradient-text {
+    @apply bg-gradient-to-r from-violet-600 via-purple-600 to-amber-500 bg-clip-text text-transparent;
   }
   
-  .blob-bg {
-    background: linear-gradient(45deg, rgba(124, 58, 237, 0.1), rgba(245, 158, 11, 0.1));
+.blob-bg {
+    background: linear-gradient(45deg, rgba(124, 58, 237, 0.1), rgba(245, 158, 11, 0.1), rgba(16, 185, 129, 0.05));
     border-radius: 50% 20% 80% 30%;
   }
 }

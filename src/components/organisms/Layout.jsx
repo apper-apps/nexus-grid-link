@@ -22,8 +22,8 @@ const Layout = ({ children }) => {
     loadGroups();
   }, []);
   
-  return (
-    <div className="min-h-screen bg-gray-50">
+return (
+    <div className="min-h-screen bg-gradient-to-br from-purple-50 via-white to-amber-50">
       <Sidebar
         isOpen={sidebarOpen}
         onClose={() => setSidebarOpen(false)}

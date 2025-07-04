@@ -25,8 +25,12 @@ const GroupCard = ({ group, isJoined = false, compact = false }) => {
         whileHover={{ scale: 1.02 }}
         onClick={handleClick}
         className="flex items-center space-x-3 p-3 rounded-lg hover:bg-gray-50 transition-colors cursor-pointer"
-      >
-        <Avatar src={group.avatar} alt={group.name} size="medium" />
+>
+        <Avatar 
+          src={group.avatar || `https://api.dicebear.com/7.x/shapes/svg?seed=${group.name}&backgroundColor=7c3aed,f59e0b,10b981`} 
+          alt={group.name} 
+          size="medium" 
+        />
         <div className="flex-1 min-w-0">
           <p className="text-sm font-medium text-gray-900 truncate">{group.name}</p>
           <p className="text-xs text-gray-500 truncate">{group.memberCount} members</p>
@@ -44,8 +48,12 @@ const GroupCard = ({ group, isJoined = false, compact = false }) => {
       onClick={handleClick}
       className="card cursor-pointer"
     >
-      <div className="flex items-center space-x-4 mb-4">
-        <Avatar src={group.avatar} alt={group.name} size="large" />
+<div className="flex items-center space-x-4 mb-4">
+        <Avatar 
+          src={group.avatar || `https://api.dicebear.com/7.x/shapes/svg?seed=${group.name}&backgroundColor=7c3aed,f59e0b,10b981`} 
+          alt={group.name} 
+          size="large" 
+        />
         <div className="flex-1 min-w-0">
           <div className="flex items-center space-x-2">
             <h3 className="text-lg font-semibold text-gray-900 truncate">{group.name}</h3>
