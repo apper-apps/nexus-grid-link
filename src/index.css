@@ -12,23 +12,21 @@
 }
 
 .Toastify__toast--success {
-  @apply bg-white border-accent;
+  @apply bg-gray-800 border-accent text-white;
 }
 
 .Toastify__toast--error {
-  @apply bg-white border-red-400;
+  @apply bg-gray-800 border-red-400 text-white;
 }
-
 .Toastify__toast--warning {
-  @apply bg-white border-secondary;
+  @apply bg-gray-800 border-secondary text-white;
 }
-
 .Toastify__toast--info {
-  @apply bg-white border-blue-400;
+  @apply bg-gray-800 border-blue-400 text-white;
 }
 
 .Toastify__toast-body {
-  @apply text-gray-800 text-sm;
+  @apply text-white text-sm;
 }
 
 .Toastify__progress-bar {
@@ -37,7 +35,7 @@
 
 @layer base {
   body {
-    @apply font-body text-gray-900 bg-slate-50;
+    @apply font-body text-white bg-black;
   }
   
   h1, h2, h3, h4, h5, h6 {
@@ -92,6 +90,10 @@ html {
 }
 
 /* Custom selection */
+::-moz-selection {
+  background-color: rgba(124, 58, 237, 0.2);
+  color: inherit;
+}
 ::selection {
   background-color: rgba(124, 58, 237, 0.2);
   color: inherit;

@@ -23,7 +23,7 @@ const Layout = ({ children }) => {
 }, []);
   
 return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-amber-50">
+    <div className="min-h-screen bg-gradient-to-br from-black via-gray-900 to-gray-800">
       <Sidebar
         isOpen={sidebarOpen}
         onClose={() => setSidebarOpen(false)}
