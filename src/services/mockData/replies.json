@@ -1,0 +1,142 @@
+[
+  {
+    "Id": 1,
+    "postId": 1,
+    "parentId": null,
+    "authorId": 2,
+    "content": "Great question! I think the next big breakthrough will be in AI-human collaboration tools. We're already seeing this with coding assistants, but I believe it will expand to creative fields like writing, design, and even scientific research.",
+    "upvotes": 12,
+    "createdAt": "2024-01-15T11:45:00Z",
+    "author": {
+      "Id": 2,
+      "username": "ArtisticSoul",
+      "avatar": ""
+    }
+  },
+  {
+    "Id": 2,
+    "postId": 1,
+    "parentId": null,
+    "authorId": 3,
+    "content": "I'm particularly excited about AI in healthcare. The potential for early disease detection and personalized treatment plans could revolutionize medicine. The ethical considerations are complex, but the benefits could be enormous.",
+    "upvotes": 8,
+    "createdAt": "2024-01-15T12:15:00Z",
+    "author": {
+      "Id": 3,
+      "username": "MelodyMaker",
+      "avatar": ""
+    }
+  },
+  {
+    "Id": 3,
+    "postId": 1,
+    "parentId": 1,
+    "authorId": 4,
+    "content": "That's a fascinating point about creative collaboration. I've been experimenting with AI writing tools, and while they're impressive, the human element is still crucial for emotional depth and authentic voice.",
+    "upvotes": 5,
+    "createdAt": "2024-01-15T13:30:00Z",
+    "author": {
+      "Id": 4,
+      "username": "ProGamer",
+      "avatar": ""
+    }
+  },
+  {
+    "Id": 4,
+    "postId": 2,
+    "parentId": null,
+    "authorId": 5,
+    "content": "Welcome to digital art! One tip that helped me tremendously was learning to work with layers effectively. It's a game-changer for non-destructive editing. Also, don't be afraid to use photo references - even masters like Norman Rockwell used them.",
+    "upvotes": 15,
+    "createdAt": "2024-01-14T16:20:00Z",
+    "author": {
+      "Id": 5,
+      "username": "SpaceEnthusiast",
+      "avatar": ""
+    }
+  },
+  {
+    "Id": 5,
+    "postId": 2,
+    "parentId": null,
+    "authorId": 6,
+    "content": "For portraits, I recommend starting with a limited palette - maybe just 3-4 colors plus white. It forces you to understand color relationships better than jumping into full spectrum painting right away.",
+    "upvotes": 11,
+    "createdAt": "2024-01-14T17:10:00Z",
+    "author": {
+      "Id": 6,
+      "username": "FitnessFirst",
+      "avatar": ""
+    }
+  },
+  {
+    "Id": 6,
+    "postId": 3,
+    "parentId": null,
+    "authorId": 7,
+    "content": "This is incredibly helpful! I've been hesitant to start producing because I thought I needed expensive equipment. Could you share what specific microphone you're using? Audio quality seems to be the most important factor for professional results.",
+    "upvotes": 18,
+    "createdAt": "2024-01-13T10:45:00Z",
+    "author": {
+      "Id": 7,
+      "username": "CodeContributor",
+      "avatar": ""
+    }
+  },
+  {
+    "Id": 7,
+    "postId": 3,
+    "parentId": null,
+    "authorId": 8,
+    "content": "Budget production is definitely the way to go when starting out. I'd also recommend investing time in learning mixing and mastering techniques. Great mixing can make a mediocre recording sound professional, while poor mixing can ruin even the best performances.",
+    "upvotes": 13,
+    "createdAt": "2024-01-13T11:30:00Z",
+    "author": {
+      "Id": 8,
+      "username": "DesignGuru",
+      "avatar": ""
+    }
+  },
+  {
+    "Id": 8,
+    "postId": 4,
+    "parentId": null,
+    "authorId": 1,
+    "content": "You're absolutely right about team composition. I've noticed that individual mechanical skill means less now if you can't coordinate with your team. Communication and strategic thinking have become just as important as reaction time and aim.",
+    "upvotes": 9,
+    "createdAt": "2024-01-12T21:00:00Z",
+    "author": {
+      "Id": 1,
+      "username": "TechExplorer",
+      "avatar": ""
+    }
+  },
+  {
+    "Id": 9,
+    "postId": 5,
+    "parentId": null,
+    "authorId": 2,
+    "content": "The implications for astrobiology are staggering. If we can confirm organic compounds on Mars, it would fundamentally change our understanding of life in the universe. Even if it's just evidence of past microbial life, it would prove that life isn't unique to Earth.",
+    "upvotes": 21,
+    "createdAt": "2024-01-11T15:30:00Z",
+    "author": {
+      "Id": 2,
+      "username": "ArtisticSoul",
+      "avatar": ""
+    }
+  },
+  {
+    "Id": 10,
+    "postId": 6,
+    "parentId": null,
+    "authorId": 3,
+    "content": "This routine sounds perfect for my schedule! I've been struggling to find time for the gym. Do you have any recommendations for tracking progress with bodyweight exercises? It seems harder to measure improvement compared to weightlifting.",
+    "upvotes": 14,
+    "createdAt": "2024-01-10T08:15:00Z",
+    "author": {
+      "Id": 3,
+      "username": "MelodyMaker",
+      "avatar": ""
+    }
+  }
+]

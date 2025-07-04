@@ -1,0 +1,134 @@
+[
+  {
+    "Id": 1,
+    "name": "Tech Innovators",
+    "description": "A community for technology enthusiasts to discuss the latest innovations, share projects, and collaborate on cutting-edge ideas.",
+    "category": "Technology",
+    "memberCount": 15420,
+    "isPrivate": false,
+    "avatar": "",
+    "moderators": [1, 2],
+    "postCount": 342
+  },
+  {
+    "Id": 2,
+    "name": "Digital Artists United",
+    "description": "Creative professionals and hobbyists sharing artwork, techniques, and inspiration in the digital art space.",
+    "category": "Art & Design",
+    "memberCount": 8750,
+    "isPrivate": false,
+    "avatar": "",
+    "moderators": [3],
+    "postCount": 156
+  },
+  {
+    "Id": 3,
+    "name": "Indie Music Makers",
+    "description": "Independent musicians collaborating, sharing original compositions, and supporting each other's musical journey.",
+    "category": "Music",
+    "memberCount": 12100,
+    "isPrivate": false,
+    "avatar": "",
+    "moderators": [4, 5],
+    "postCount": 278
+  },
+  {
+    "Id": 4,
+    "name": "Competitive Gaming Hub",
+    "description": "Serious gamers discussing strategies, tournaments, and the latest in competitive gaming across all platforms.",
+    "category": "Gaming",
+    "memberCount": 22500,
+    "isPrivate": false,
+    "avatar": "",
+    "moderators": [6],
+    "postCount": 567
+  },
+  {
+    "Id": 5,
+    "name": "Space Exploration Society",
+    "description": "Space enthusiasts sharing discoveries, discussing missions, and exploring the mysteries of the universe together.",
+    "category": "Science",
+    "memberCount": 9800,
+    "isPrivate": false,
+    "avatar": "",
+    "moderators": [7, 8],
+    "postCount": 189
+  },
+  {
+    "Id": 6,
+    "name": "Fitness & Wellness",
+    "description": "Health-conscious individuals sharing workout routines, nutrition tips, and supporting each other's fitness goals.",
+    "category": "Sports",
+    "memberCount": 18200,
+    "isPrivate": false,
+    "avatar": "",
+    "moderators": [9],
+    "postCount": 445
+  },
+  {
+    "Id": 7,
+    "name": "Gourmet Food Lovers",
+    "description": "Culinary enthusiasts sharing recipes, restaurant recommendations, and celebrating the art of cooking.",
+    "category": "Food",
+    "memberCount": 6400,
+    "isPrivate": false,
+    "avatar": "",
+    "moderators": [10, 11],
+    "postCount": 234
+  },
+  {
+    "Id": 8,
+    "name": "World Travelers",
+    "description": "Globe-trotters sharing travel experiences, destination guides, and connecting with fellow adventure seekers.",
+    "category": "Travel",
+    "memberCount": 14600,
+    "isPrivate": false,
+    "avatar": "",
+    "moderators": [12],
+    "postCount": 378
+  },
+  {
+    "Id": 9,
+    "name": "Startup Founders",
+    "description": "Entrepreneurs sharing experiences, seeking advice, and building the next generation of innovative companies.",
+    "category": "Technology",
+    "memberCount": 7200,
+    "isPrivate": true,
+    "avatar": "",
+    "moderators": [13, 14],
+    "postCount": 167
+  },
+  {
+    "Id": 10,
+    "name": "Photography Masters",
+    "description": "Professional and amateur photographers sharing techniques, critiques, and stunning visual stories.",
+    "category": "Art & Design",
+    "memberCount": 11300,
+    "isPrivate": false,
+    "avatar": "",
+    "moderators": [15],
+    "postCount": 289
+  },
+  {
+    "Id": 11,
+    "name": "Classical Music Enthusiasts",
+    "description": "Lovers of classical music discussing composers, performances, and the timeless beauty of orchestral works.",
+    "category": "Music",
+    "memberCount": 4800,
+    "isPrivate": false,
+    "avatar": "",
+    "moderators": [16, 17],
+    "postCount": 123
+  },
+  {
+    "Id": 12,
+    "name": "Retro Gaming Collective",
+    "description": "Nostalgic gamers celebrating classic games, vintage consoles, and the golden age of gaming.",
+    "category": "Gaming",
+    "memberCount": 8900,
+    "isPrivate": false,
+    "avatar": "",
+    "moderators": [18],
+    "postCount": 201
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "Id": 1,
+    "groupId": 1,
+    "authorId": 1,
+    "title": "The Future of AI in Everyday Applications",
+    "content": "I've been exploring how AI is being integrated into daily life applications, from smart home devices to personal assistants. The rate of advancement is incredible, and I'm curious about what everyone thinks the next big breakthrough will be. What AI applications are you most excited about?",
+    "upvotes": 47,
+    "replyCount": 23,
+    "views": 189,
+    "createdAt": "2024-01-15T10:30:00Z",
+    "author": {
+      "Id": 1,
+      "username": "TechExplorer",
+      "avatar": ""
+    },
+    "group": {
+      "Id": 1,
+      "name": "Tech Innovators"
+    }
+  },
+  {
+    "Id": 2,
+    "groupId": 2,
+    "authorId": 2,
+    "title": "Digital Painting Techniques for Beginners",
+    "content": "After years of traditional painting, I've recently made the transition to digital art. The learning curve has been steep but rewarding. I wanted to share some techniques that have helped me improve quickly and ask for recommendations on brush settings and color palettes that work well for portraits.",
+    "upvotes": 34,
+    "replyCount": 18,
+    "views": 142,
+    "createdAt": "2024-01-14T15:45:00Z",
+    "author": {
+      "Id": 2,
+      "username": "ArtisticSoul",
+      "avatar": ""
+    },
+    "group": {
+      "Id": 2,
+      "name": "Digital Artists United"
+    }
+  },
+  {
+    "Id": 3,
+    "groupId": 3,
+    "authorId": 3,
+    "title": "Indie Music Production on a Budget",
+    "content": "Creating quality music doesn't have to break the bank. I've been producing tracks using affordable equipment and free software, and I'm amazed at what's possible. Here's a breakdown of my home studio setup that cost under $500 and some tips for getting professional-sounding results.",
+    "upvotes": 52,
+    "replyCount": 31,
+    "views": 267,
+    "createdAt": "2024-01-13T09:20:00Z",
+    "author": {
+      "Id": 3,
+      "username": "MelodyMaker",
+      "avatar": ""
+    },
+    "group": {
+      "Id": 3,
+      "name": "Indie Music Makers"
+    }
+  },
+  {
+    "Id": 4,
+    "groupId": 4,
+    "authorId": 4,
+    "title": "Competitive Gaming Strategy Discussion",
+    "content": "The meta has shifted significantly with the latest patch, and I'm interested in hearing how everyone is adapting their strategies. Team composition seems more important than ever, and individual skill needs to be balanced with coordination. What changes have you noticed in your ranked games?",
+    "upvotes": 28,
+    "replyCount": 15,
+    "views": 198,
+    "createdAt": "2024-01-12T20:15:00Z",
+    "author": {
+      "Id": 4,
+      "username": "ProGamer",
+      "avatar": ""
+    },
+    "group": {
+      "Id": 4,
+      "name": "Competitive Gaming Hub"
+    }
+  },
+  {
+    "Id": 5,
+    "groupId": 5,
+    "authorId": 5,
+    "title": "Mars Rover Discoveries and Implications",
+    "content": "The recent findings from the Mars rover missions have provided fascinating insights into the planet's geological history. The evidence of ancient water flows and potential organic compounds raises exciting questions about the possibility of past life. I'd love to discuss the scientific implications and what this means for future exploration missions.",
+    "upvotes": 63,
+    "replyCount": 42,
+    "views": 334,
+    "createdAt": "2024-01-11T14:00:00Z",
+    "author": {
+      "Id": 5,
+      "username": "SpaceEnthusiast",
+      "avatar": ""
+    },
+    "group": {
+      "Id": 5,
+      "name": "Space Exploration Society"
+    }
+  },
+  {
+    "Id": 6,
+    "groupId": 6,
+    "authorId": 6,
+    "title": "Home Workout Routine for Busy Professionals",
+    "content": "Balancing a demanding career with fitness goals can be challenging, but I've developed a 30-minute routine that fits into any schedule. No equipment needed, just bodyweight exercises that target all major muscle groups. I've been following this for 3 months and have seen significant improvements in strength and endurance.",
+    "upvotes": 41,
+    "replyCount": 27,
+    "views": 156,
+    "createdAt": "2024-01-10T07:30:00Z",
+    "author": {
+      "Id": 6,
+      "username": "FitnessFirst",
+      "avatar": ""
+    },
+    "group": {
+      "Id": 6,
+      "name": "Fitness & Wellness"
+    }
+  },
+  {
+    "Id": 7,
+    "groupId": 1,
+    "authorId": 7,
+    "title": "Open Source Projects Worth Contributing To",
+    "content": "I've been looking for meaningful open source projects to contribute to in my spare time. There are so many options that it's overwhelming. I'm particularly interested in projects that focus on education, accessibility, or environmental impact. What projects have you found rewarding to work on?",
+    "upvotes": 39,
+    "replyCount": 22,
+    "views": 178,
+    "createdAt": "2024-01-09T16:45:00Z",
+    "author": {
+      "Id": 7,
+      "username": "CodeContributor",
+      "avatar": ""
+    },
+    "group": {
+      "Id": 1,
+      "name": "Tech Innovators"
+    }
+  },
+  {
+    "Id": 8,
+    "groupId": 2,
+    "authorId": 8,
+    "title": "Color Theory in Digital Design",
+    "content": "Understanding color relationships has transformed my design work. The psychology of color choice and how different combinations evoke emotions is fascinating. I've been experimenting with complementary and analogous color schemes and wanted to share some insights about creating visual harmony in digital compositions.",
+    "upvotes": 44,
+    "replyCount": 19,
+    "views": 221,
+    "createdAt": "2024-01-08T11:20:00Z",
+    "author": {
+      "Id": 8,
+      "username": "DesignGuru",
+      "avatar": ""
+    },
+    "group": {
+      "Id": 2,
+      "name": "Digital Artists United"
+    }
+  }
+]

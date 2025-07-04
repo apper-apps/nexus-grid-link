@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "participant": {
+      "Id": 2,
+      "username": "ArtisticSoul",
+      "avatar": "",
+      "isOnline": true
+    },
+    "lastMessage": {
+      "content": "Thanks for the feedback on my latest piece!",
+      "time": "2m ago"
+    },
+    "unreadCount": 2
+  },
+  {
+    "Id": 2,
+    "participant": {
+      "Id": 3,
+      "username": "MelodyMaker",
+      "avatar": "",
+      "isOnline": false
+    },
+    "lastMessage": {
+      "content": "Would love to collaborate on that track",
+      "time": "1h ago"
+    },
+    "unreadCount": 0
+  },
+  {
+    "Id": 3,
+    "participant": {
+      "Id": 4,
+      "username": "ProGamer",
+      "avatar": "",
+      "isOnline": true
+    },
+    "lastMessage": {
+      "content": "Ready for tonight's tournament?",
+      "time": "3h ago"
+    },
+    "unreadCount": 1
+  },
+  {
+    "Id": 4,
+    "participant": {
+      "Id": 5,
+      "username": "SpaceEnthusiast",
+      "avatar": "",
+      "isOnline": false
+    },
+    "lastMessage": {
+      "content": "Did you see the latest Mars rover update?",
+      "time": "1d ago"
+    },
+    "unreadCount": 0
+  }
+]

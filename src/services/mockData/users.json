@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 1,
+    "username": "TechExplorer",
+    "bio": "Passionate about emerging technologies and their impact on society. Always learning, always building.",
+    "avatar": "",
+    "joinedGroups": [1, 9],
+    "points": 1420,
+    "badges": ["Early Adopter", "Tech Enthusiast", "Community Builder"]
+  },
+  {
+    "Id": 2,
+    "username": "ArtisticSoul",
+    "bio": "Digital artist exploring the intersection of technology and creativity. Lover of vibrant colors and bold compositions.",
+    "avatar": "",
+    "joinedGroups": [2, 10],
+    "points": 980,
+    "badges": ["Creative Genius", "Color Master"]
+  },
+  {
+    "Id": 3,
+    "username": "MelodyMaker",
+    "bio": "Indie musician crafting atmospheric soundscapes. Believer in the power of music to connect hearts and minds.",
+    "avatar": "",
+    "joinedGroups": [3, 11],
+    "points": 1150,
+    "badges": ["Sound Pioneer", "Collaboration Expert"]
+  },
+  {
+    "Id": 4,
+    "username": "ProGamer",
+    "bio": "Competitive gamer focused on strategic gameplay and team coordination. Always analyzing the meta.",
+    "avatar": "",
+    "joinedGroups": [4, 12],
+    "points": 2100,
+    "badges": ["Strategic Mind", "Team Player", "Meta Analyst"]
+  },
+  {
+    "Id": 5,
+    "username": "SpaceEnthusiast",
+    "bio": "Fascinated by the cosmos and humanity's place in it. Following every space mission with wide-eyed wonder.",
+    "avatar": "",
+    "joinedGroups": [5],
+    "points": 1350,
+    "badges": ["Cosmic Explorer", "Science Advocate"]
+  },
+  {
+    "Id": 6,
+    "username": "FitnessFirst",
+    "bio": "Certified personal trainer helping people achieve their health goals. Believer in sustainable fitness practices.",
+    "avatar": "",
+    "joinedGroups": [6],
+    "points": 890,
+    "badges": ["Wellness Guru", "Motivator"]
+  },
+  {
+    "Id": 7,
+    "username": "CodeContributor",
+    "bio": "Full-stack developer passionate about open source and creating tools that make developers' lives easier.",
+    "avatar": "",
+    "joinedGroups": [1, 9],
+    "points": 1680,
+    "badges": ["Code Ninja", "Open Source Hero"]
+  },
+  {
+    "Id": 8,
+    "username": "DesignGuru",
+    "bio": "UI/UX designer with a focus on accessibility and user-centered design. Making the digital world more inclusive.",
+    "avatar": "",
+    "joinedGroups": [2, 10],
+    "points": 1290,
+    "badges": ["Design Thinker", "Accessibility Champion"]
+  }
+]

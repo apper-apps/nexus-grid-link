@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "conversationId": 1,
+    "senderId": 2,
+    "content": "Hey! I saw your post about digital painting techniques. Really helpful stuff!",
+    "time": "10:30 AM"
+  },
+  {
+    "Id": 2,
+    "conversationId": 1,
+    "senderId": 1,
+    "content": "Thanks! I'm glad you found it useful. Are you working on any projects right now?",
+    "time": "10:32 AM"
+  },
+  {
+    "Id": 3,
+    "conversationId": 1,
+    "senderId": 2,
+    "content": "Yes, I'm working on a series of abstract portraits. Still struggling with color harmony though.",
+    "time": "10:35 AM"
+  },
+  {
+    "Id": 4,
+    "conversationId": 1,
+    "senderId": 1,
+    "content": "Color harmony can be tricky! Have you tried using a limited palette approach?",
+    "time": "10:37 AM"
+  },
+  {
+    "Id": 5,
+    "conversationId": 1,
+    "senderId": 2,
+    "content": "Not yet, but that's a great idea. Could you share some examples?",
+    "time": "10:40 AM"
+  },
+  {
+    "Id": 6,
+    "conversationId": 1,
+    "senderId": 1,
+    "content": "Sure! I'll send you some references. Also, thanks for the feedback on my latest piece!",
+    "time": "10:42 AM"
+  },
+  {
+    "Id": 7,
+    "conversationId": 2,
+    "senderId": 3,
+    "content": "I listened to your latest track on your profile. The atmospheric layers are incredible!",
+    "time": "Yesterday"
+  },
+  {
+    "Id": 8,
+    "conversationId": 2,
+    "senderId": 1,
+    "content": "Thank you so much! I spent a lot of time on the sound design.",
+    "time": "Yesterday"
+  },
+  {
+    "Id": 9,
+    "conversationId": 2,
+    "senderId": 3,
+    "content": "It shows! Would love to collaborate on that track we discussed.",
+    "time": "Yesterday"
+  },
+  {
+    "Id": 10,
+    "conversationId": 3,
+    "senderId": 4,
+    "content": "Hey, did you see the patch notes for the new update?",
+    "time": "Yesterday"
+  },
+  {
+    "Id": 11,
+    "conversationId": 3,
+    "senderId": 1,
+    "content": "Yes! The balance changes are pretty significant. Ready for tonight's tournament?",
+    "time": "Yesterday"
+  },
+  {
+    "Id": 12,
+    "conversationId": 3,
+    "senderId": 4,
+    "content": "Absolutely! I've been practicing the new strategies we discussed.",
+    "time": "Yesterday"
+  }
+]
