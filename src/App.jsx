@@ -1,4 +1,4 @@
-import { Route, Router, Routes } from "react-router-dom";
+import { Route, BrowserRouter, Routes } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
 import React from "react";
 import Layout from "@/components/organisms/Layout";
@@ -9,8 +9,8 @@ import Discover from "@/components/pages/Discover";
 import GroupView from "@/components/pages/GroupView";
 
 function App() {
-  return (
-    <Router>
+return (
+    <BrowserRouter>
     <div className="min-h-screen bg-black">
         <Layout>
             <Routes>
@@ -29,7 +29,6 @@ function App() {
             newestOnTop={false}
             closeOnClick
             rtl={false}
-            rtl={false}
             pauseOnFocusLoss
             draggable
             pauseOnHover
@@ -37,7 +36,7 @@ function App() {
             style={{
                 zIndex: 9999
             }} />
-    </div></Router>
+    </div></BrowserRouter>
   );
 }
 
